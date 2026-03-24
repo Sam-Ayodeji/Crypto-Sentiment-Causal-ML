@@ -7,12 +7,12 @@ This repository contains the full code and data for the study investigating the 
 The study employs advanced causal inference techniques, including Double Machine Learning (DML) with partial linear regression (PLR), Instrumental Variable DML (IV-DML), and Causal Forests, to robustly estimate treatment effects and explore heterogeneity.
 
 ## Table of Contents
-- [Overview]
-- [Data Sources]
+- [Overview](#overview)
+- [Data Sources](#data-sources)
 - [Setup and Installation](#setup-and-installation)
-- [Running the Notebook
-- [Key Findings
-- License
+- [Running the Notebook](#running-the-notebook)
+- [Key Findings](#key-findings)
+- [License](#license)
 
 ## Overview
 
